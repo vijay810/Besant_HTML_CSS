@@ -1,0 +1,22 @@
+p{
+	background-color: lemonchiffon;
+	border-style: ridge;
+	border-width: 15px;
+	border-color: orange;
+	text-align: justify;
+	text-indent: 60px;
+	font-size: 25px;
+	font-family: georgia;
+	margin: 2px;
+	padding: 20px 20px 20px 20px;border-color: orange;
+	margin-bottom: 30px;
+	color: navy;
+	
+}
+h1{
+	border-bottom: solid;
+	padding-width: 40px;
+	font-size: 5em;
+	text-align: center;
+	color: tomato;
+}
