@@ -1,0 +1,72 @@
+*{
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+	list-style: none;
+	box-sizing: border-box;
+}
+p{
+	background-color: none;
+	background-position: none;
+	padding: 2px 20px;
+	margin: 10px 0px;
+	color: orangered;
+	font-size: 2em;
+}
+ul{
+	list-style-type: square;
+	color: orangered;	
+	font-size: 2em;
+	margin: 10px 40px;
+}
+ol{
+	list-style-type: number;
+	color: orangered;
+	font-size: 2em;
+	margin: 10px 40px;
+}
+.image{
+	width: 100%;
+	height: 100vh%;
+	background-image: url(img/Bus.png);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+}
+body{
+	font-family: montserrat;
+	background: black;
+	background-image: url(img/homebus.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+nav{
+	background: orange;
+	height: 80px;
+	width: 100;
+
+}
+label.logo{
+	color: white;
+	font-size: 35px;
+	line-height: 80px;
+	padding: 0 100px;
+	font-weight: bold;
+}
+nav ul{
+	float: right;
+	margin-right: 20px;
+}
+nav ul li{
+	display: inline-block;
+	line-height: 80px 30px;
+	margin: 0 5px;
+}
+nav ul li a{
+	color: white;
+	font-size: 17px;
+	padding: 7px 13px;
+	border-radius: 3px;
+	text-transform: uppercase;
+
+}
